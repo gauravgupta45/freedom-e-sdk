@@ -260,12 +260,12 @@
         "source": "git@github.com:sifive/example-hca-metal.git"
     },
     {
-        "commit": "950b3ac73c3e5a2cf7e7463aa05b144e8616569c",
+        "commit": "57ff53e9f5216d61b665f65e6a6717f0e3e8ae05",
         "name": "example-l2pm",
         "source": "git@github.com:sifive/example-l2pm.git"
     },
     {
-        "commit": "88e0394e61294152c487512516758bfadfb1d12e",
+        "commit": "ca2adb511d7558b68679aa40f394eb02d173d7af",
         "name": "example-l2pf",
         "source": "git@github.com:sifive/example-l2pf.git"
     }
